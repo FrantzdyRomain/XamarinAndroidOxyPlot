@@ -1,0 +1,13 @@
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/bin/Debug/NewsReader.dll.mdb
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/bin/Debug/NewsReader.dll
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/obj/Debug/NewsReader.dll
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/obj/Debug/NewsReader.dll.mdb
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/bin/Debug/System.Net.Http.dll
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/bin/Debug/System.Net.Http.Primitives.dll
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/bin/Debug/System.Net.Http.Extensions.dll
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/bin/Debug/MvvmCross.Platform.dll
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/bin/Debug/MvvmCross.Core.dll
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/bin/Debug/MvvmCross.Binding.dll
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/bin/Debug/MvvmCross.Localization.dll
+/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader/bin/Debug/OxyPlot.dll

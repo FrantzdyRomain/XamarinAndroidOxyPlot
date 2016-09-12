@@ -1,0 +1,55 @@
+﻿<Properties StartupItem="NewsReader.android/NewsReader.android.csproj">
+  <MonoDevelop.Ide.ItemProperties.NewsReader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="NewsReader/ViewModels/FirstViewModel.cs" Line="17" Column="29" />
+      <File FileName="NewsReader/Model/NewsModel.cs" Line="2" Column="1" />
+      <File FileName="NewsReader.android/Views/FirstView.cs" Line="37" Column="4" />
+      <File FileName="../documentation-examples-master/HelloWorld/AndroidApp1/MainActivity.cs" Line="21" Column="36" />
+      <File FileName="NewsReader.android/TelerikDatabinding/NewsModelDataBinding.cs" Line="1" Column="1" />
+      <File FileName="../documentation-examples-master/HelloWorld/AndroidApp1/packages.config" Line="4" Column="4" />
+      <File FileName="NewsReader.android/Setup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AndroidApp1" expanded="True">
+            <Node name="AndroidApp1" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="NewsReader" expanded="True">
+            <Node name="NewsReader" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True" />
+              </Node>
+              <Node name="Packages" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="NewsReader.android" expanded="True" selected="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="TelerikDatabinding" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NewsReader.android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.LGAS33034fa3006" />
+</Properties>

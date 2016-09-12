@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/MvvmCross.Platform.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/MvvmCross.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/MvvmCross.Droid.Shared/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/MvvmCross.Binding.Droid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/OxyPlot.Xamarin.Android/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/MvvmCross.Platform.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/MvvmCross.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/MvvmCross.Droid.Shared/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/MvvmCross.Binding.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/OxyPlot.Xamarin.Android/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/MvvmCross.Platform.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/MvvmCross.Droid.Shared.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/frantzdyromain/Projects/Xamarin/NewsReader/NewsReader.android/obj/Debug/__library_projects__/OxyPlot.Xamarin.Android.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
