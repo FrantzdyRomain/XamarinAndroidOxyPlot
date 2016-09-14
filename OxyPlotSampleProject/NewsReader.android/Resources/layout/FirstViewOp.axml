@@ -8,5 +8,5 @@
         android:id="@+id/plotview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        local:MvxBind="Model PlotModel" />
+        local:MvxBind="Model PlotModel, Mode=TwoWay" />
 </LinearLayout>
